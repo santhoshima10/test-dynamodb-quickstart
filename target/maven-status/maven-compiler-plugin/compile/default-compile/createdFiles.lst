@@ -1,0 +1,5 @@
+org/acme/FruitSyncService.class
+org/acme/FruitResource.class
+org/acme/AbstractService.class
+org/acme/GreetingResource.class
+org/acme/Fruit.class
